@@ -2,6 +2,8 @@
 
 Exercice 3 of week 3 from the VueJS track at **LeReacteur**.
 
+![proj13](https://github.com/user-attachments/assets/acfbfb87-5111-4a8d-a2a9-5d820e81b4b8)
+
 ---
 
 ## ✅ Project Setup
